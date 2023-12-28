@@ -1,0 +1,17 @@
+<resources>
+<string name="app_name">Registro de visitas a clientes</string>
+<string name="rut_value">Rut del cliente</string>
+<string name="razonSocial_value">Razón Social</string>
+<string name="direccion_value">Dirección</string>
+<string name="fechaVisita_value">Fecha de visita</string>
+<string name="compra_value">Cliente realiza compra ?</string>
+<string name="comentarios_value">Comentarios</string>
+<string name="button_load">Cargar</string>
+<string name="button_save">Guardar</string>
+<string name="rut_hint">Ingrese el rut del cliente</string>
+<string name="razonSocial_hint">Ingrese razón social del cliente </string>
+<string name="direccion_hint">Ingrese dirección del cliente</string>
+<string name="fechaVisita_hint">Ingrese Fecha de la visita</string>
+<string name="compra_hint">Cliente realiza compra ?</string>
+<string name="comentarios_hint">Ingrese comentarios de visita</string>
+</resources>
